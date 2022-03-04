@@ -1,3 +1,4 @@
 a = 10
 b = 12
-print(a + b)
+sum = a + b
+print(f"The sum of a and b is :\n{sum}")
